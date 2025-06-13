@@ -1,0 +1,10 @@
+{
+  "client": {
+    "dependencies": {},
+    "devDependencies": {}
+  },
+  "server": {
+    "dependencies": {},
+    "devDependencies": {}
+  }
+}

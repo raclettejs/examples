@@ -1,0 +1,31 @@
+# keep this files
+!.gitkeep
+
+# editor directories and files
+/tags
+.tern-port
+vim-session
+.DS_Store
+.vscode
+
+# just in case when moving around keys
+**/keys
+keys
+/ssh
+/.ssh
+id_rsa
+id_rsa.pub
+
+# ignore env files
+.env*
+
+# ignore reference folder
+**/*-ref
+
+node_modules
+**/node_modules
+
+# raclette related
+.raclette
+secrets.ts
+.npmrc
